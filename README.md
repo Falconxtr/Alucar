@@ -8,4 +8,7 @@ Esse é um projeto desenvolvido pela DevMedia. A proposta desse projeto é criar
 - FLEXBOX
 - PSEUDO ELEMENTOS
 - PSEUDO CLASSES
-- Form
+- FORMULÁRIOS
+
+## O layout do projeto que será criado pode ser visto no link abaixo
+> https://www.devmedia.com.br/codigos/formularios/aula9/html/
